@@ -2,17 +2,6 @@
 
 This project demonstrates how to integrate **React Navigation v6** with **TypeScript** in a React Native application.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Setting Up Navigation](#setting-up-navigation)
-  - [Creating Type Definitions](#creating-type-definitions)
-  - [Adding Stack and Tab Navigators](#adding-stack-and-tab-navigators)
-- [Usage](#usage)
-- [Troubleshooting](#troubleshooting)
-- [Further Reading](#further-reading)
-
 ## Introduction
 
 React Navigation v6 is a popular library for managing navigation in React Native apps. TypeScript support helps catch bugs early by providing type safety, enhancing code readability and maintainability.
